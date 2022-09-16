@@ -6,7 +6,7 @@
 
 projeto construido para adcionar meus dados profissionais e hobbies
 
-🔗 [Clica aqui para acessar](https://github.com/ojoserenan/portfolio)
+🔗 [Clica aqui para acessar](https://ojoserenan.github.io/portfolio/)
 
 # 👨🏻‍💻 Tecnologias
 - HTML
@@ -15,4 +15,3 @@ projeto construido para adcionar meus dados profissionais e hobbies
 
 ## 📧 Contato
 joserenansoares@gmail.com
-
